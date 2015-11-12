@@ -7,6 +7,12 @@ INITIAL_DATA = [[""     , "rien"           ],
                 ["denys", "truc"           ],
                 ["denys","machin"          ],
                 ["denys","chose"           ],
+                ["Batman","i'm the batman"],
+                ["Batman","attraper le joker"],
+                ["Robin","attraper le joker"],
+                ["Robin","admirer batman"],
+                ["L'homme perdu","etre perdu"],
+                ["Jean mi","admirer batman"],
             ]
 
 class DB:
